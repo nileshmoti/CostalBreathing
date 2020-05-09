@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="button_start">Start</string>
+    <string name="textView_output">0</string>
+    <string name="textView_pause">Pause Interval</string>
+    <string name="textView_timeDuration">Time Duration</string>
+</resources>
